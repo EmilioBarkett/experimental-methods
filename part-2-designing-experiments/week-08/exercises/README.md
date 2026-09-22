@@ -1,8 +1,19 @@
 # Week 8 exercises
 
-Suggested starting point:
+**[`power-analysis.ipynb`](power-analysis.ipynb)** — a worked example, already run with
+its outputs saved (open it in VS Code or Jupyter to see the results without
+re-running anything, or run it yourself cell by cell). It covers:
 
-- Run a power analysis (e.g. `pwr` in R or `statsmodels.stats.power` in Python) for a simple two-arm design.
+- Computing power analytically for a two-arm experiment (`statsmodels`)
+- Solving backward for the sample size needed for 80% power
+- Power curves across effect sizes
+- Confirming the analytic result by simulation (run thousands of fake
+  experiments, count how often you detect a real effect)
+
+Setup: `pip install -r requirements.txt` (repo root), then open the notebook
+in VS Code with the Jupyter/Python extensions, or run `jupyter lab`.
+
+An R equivalent (using `pwr`) would work just as well — not built out yet,
+contributions welcome.
 
 Not every week needs code — some are discussion/design-only (see notes.md).
-Add `.R` / `.py` / `.md` files here as you work through them.

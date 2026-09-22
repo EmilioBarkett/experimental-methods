@@ -6,14 +6,15 @@ _TBD — fill in as you work through the week's readings._
 
 ## Readings
 
-- Lab experiments — Willer (no verified public link found); Ridgeway & Correll (no verified public link found)
-- Survey experiments — Schachter ([confirmed PDF](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Affect/required_reading/1Schacter_SInger_1962_Cognitive_social_and_physiological_determinants_of_emotional_state.pdf) — Schachter & Singer 1962, "Cognitive, Social, and Physiological Determinants of Emotional State"); Phelan, Link & Feldman (no public link found — paywalled)
-- Audit experiments — Pager ([confirmed PDF](https://users.ssc.wisc.edu/~gwallace/Papers/Pager%20(2003).pdf) — "The Mark of a Criminal Record," 2003); Correll, Benard & Paik ([confirmed PDF](https://cpi.stanford.edu/_media/pdf/Reference%20Media/Correll,%20Benard,%20and%20Paik_2007_Gender.pdf) — "Is There a Motherhood Penalty?," 2007)
+- Lab experiments — Willer, R. 2009. ["Groups Reward Individual Sacrifice: The Status Solution to the Collective Action Problem."](https://drive.google.com/file/d/1y_IFJslKxN1TBrhNUHCuSZ4NXQjcf8GG/view) *American Sociological Review* 74(1):23–43. (free copy hosted on the author's own site); Ridgeway, C.L. & Correll, S.J. 2006. "Consensus and the Creation of Status Beliefs." *Social Forces* 85(1):431–453. (no free copy found — paywalled)
+- Survey experiments — Schachter, A. 2016. "From 'Different' to 'Similar': An Experimental Approach to Understanding Assimilation." *American Sociological Review* 81(5):981–1013. (no free copy found — paywalled); Phelan, J.C., Link, B.G. & Feldman, N.M. 2013. ["The Genomic Revolution and Beliefs about Essential Racial Differences: A Backdoor to Eugenics?"](https://pmc.ncbi.nlm.nih.gov/articles/PMC4026366/) *American Sociological Review* 78(2):167–191. (free full text via PMC)
+- Audit experiments — Pager, D. 2003. ["The Mark of a Criminal Record."](https://users.ssc.wisc.edu/~gwallace/Papers/Pager%20(2003).pdf) *American Journal of Sociology* 108(5):937–975; Correll, S.J., Benard, S. & Paik, I. 2007. ["Getting a Job: Is There a Motherhood Penalty?"](https://cpi.stanford.edu/_media/pdf/Reference%20Media/Correll,%20Benard,%20and%20Paik_2007_Gender.pdf) *American Journal of Sociology* 112(5):1297–1339.
 
-> **Note:** the original syllabus cites "Lab experiments" and "Survey experiments"
-> by surname only, with no title — those citations are ambiguous, so no link is
-> given where the exact paper couldn't be confirmed. Fill in the specific paper
-> once you know which one your version of the course means.
+> **Note:** citations checked against the live syllabus (jchu1225.github.io/courses/gu6008)
+> for exact titles/years. An earlier version of this file linked "Schachter" to
+> Schachter & Singer's 1962 emotion paper — that's a different author (Stanley
+> Schachter, not Ariela Schachter) and a different paper entirely; that link has
+> been removed.
 
 ## Links
 

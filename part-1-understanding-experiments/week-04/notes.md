@@ -8,7 +8,7 @@ _TBD — fill in as you work through the week's readings._
 
 - Web experiments — Salganik, Dodds & Watts ([confirmed PDF](https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf) — *Science* 2006); Kramer et al. (no public link found — paywalled, *PNAS* 2014)
 - Field experiments — Paluck, Shepherd & Aronow ([confirmed, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725542/) — "Changing climates of conflict," *PNAS* 2016); Broockman & Kalla ([confirmed PDF](https://www.scunning.com/files/gov51/readings/broockman_kalla_transphobia_2016.pdf) — "Durably reducing transphobia," *Science* 2016)
-- Lab in the field — Gneezy & Imas ([confirmed PDF](https://www.povertyactionlab.org/sites/default/files/research-paper/Gneezy_Imas_Submission.pdf) — "Lab in the Field: Measuring Preferences in the Wild"); Baldassarri (best-guess match — [Baldassarri & Grossman 2011, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3131358/), "Centralized sanctioning and legitimate authority promote cooperation in humans"; original citation was ambiguous, verify)
+- Lab in the field — Gneezy & Imas ([confirmed PDF](https://www.povertyactionlab.org/sites/default/files/research-paper/Gneezy_Imas_Submission.pdf) — "Lab in the Field: Measuring Preferences in the Wild"); Baldassarri, D. 2015. ["Cooperative Networks: Altruism, Group Solidarity, Reciprocity, and Sanctioning in Ugandan Producer Organizations."](https://iris.unibocconi.it/retrieve/e31e10d4-400d-31fb-e053-1705fe0a5b99/Baldassarri_CooperativeNetworks_AJS2015.pdf) *American Journal of Sociology* 121(2):355–395. (free copy via Bocconi University repository — confirmed exact title/author against live syllabus)
 
 **Due:** Summarizing experiments memo
 

@@ -10,6 +10,10 @@ re-running anything, or run it yourself cell by cell). It covers:
 - Confirming the analytic result by simulation (run thousands of fake
   experiments, count how often you detect a real effect)
 
+It ends with a **"Your turn"** section: a real exercise (unequal group
+sizes/`ratio`) with a blank code cell for you to fill in — no solution
+provided, see `PLAN.md`'s open question on where solutions should live.
+
 Setup: `pip install -r requirements.txt` (repo root), then open the notebook
 in VS Code with the Jupyter/Python extensions, or run `jupyter lab`.
 

@@ -2,8 +2,6 @@
 
 *Original syllabus date: March 7*
 
-> **Note:** The original syllabus has a two-week gap between this week and Week 9 (Mar 7 → Mar 21) for spring break. PLAN.md notes week 8 as the break itself; the source syllabus actually places break *between* weeks 8 and 9, with week 8 carrying real content. Flagging the discrepancy here rather than silently picking one.
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

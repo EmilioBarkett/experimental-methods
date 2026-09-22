@@ -1,7 +1,5 @@
 # Week 9: Threats to Internal Validity
 
-*Original syllabus date: March 21*
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

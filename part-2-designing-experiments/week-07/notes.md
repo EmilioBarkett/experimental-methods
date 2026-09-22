@@ -1,7 +1,5 @@
 # Week 7: The Causal Chain / Mediation and Moderation
 
-*Original syllabus date: Feb 29*
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

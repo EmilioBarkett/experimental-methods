@@ -1,7 +1,5 @@
 # Week 8: False Positives and Negatives / Statistical Power
 
-*Original syllabus date: March 7*
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

@@ -1,7 +1,5 @@
 # Week 4: Types of Experiments Pt II
 
-*Original syllabus date: Feb 8*
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

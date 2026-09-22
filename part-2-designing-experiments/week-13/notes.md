@@ -1,7 +1,5 @@
 # Week 13: Lightning Talks II
 
-*Original syllabus date: April 18*
-
 > **Note:** Student presentations of experiment proposals — no assigned readings.
 
 ## Key concepts

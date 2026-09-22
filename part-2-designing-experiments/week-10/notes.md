@@ -1,7 +1,5 @@
 # Week 10: Ethics
 
-*Original syllabus date: March 28*
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

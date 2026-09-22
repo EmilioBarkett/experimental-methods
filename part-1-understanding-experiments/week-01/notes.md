@@ -1,7 +1,5 @@
 # Week 1: Why Experiment?
 
-*Original syllabus date: Jan 18*
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

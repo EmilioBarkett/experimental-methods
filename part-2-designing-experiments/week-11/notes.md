@@ -1,7 +1,5 @@
 # Week 11: Identifying Treatment Effects / Data Analysis
 
-*Original syllabus date: April 4*
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

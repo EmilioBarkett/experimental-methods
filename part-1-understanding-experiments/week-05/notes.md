@@ -1,7 +1,5 @@
 # Week 5: Hallmarks of Valid and Publishable Experiments
 
-*Original syllabus date: Feb 15*
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

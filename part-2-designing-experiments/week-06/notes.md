@@ -1,7 +1,5 @@
 # Week 6: Treatment Assignment
 
-*Original syllabus date: Feb 22*
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

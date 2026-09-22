@@ -1,7 +1,5 @@
 # Week 14: New Advances and Critiques
 
-*Original syllabus date: April 25*
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

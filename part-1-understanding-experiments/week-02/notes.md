@@ -1,7 +1,5 @@
 # Week 2: The Logic and Assumptions of Experiments
 
-*Original syllabus date: Jan 25*
-
 ## Key concepts
 
 _TBD — fill in as you work through the week's readings._

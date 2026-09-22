@@ -1,7 +1,5 @@
 # Week 12: Lightning Talks I
 
-*Original syllabus date: April 11*
-
 > **Note:** Student presentations of experiment proposals — no assigned readings.
 
 ## Key concepts
